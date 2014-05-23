@@ -1,0 +1,12 @@
+# Java class files
+*.class
+
+# Generated files
+bin/
+out/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+#idea files
+.idea/
